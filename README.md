@@ -28,7 +28,8 @@ Execute Django admin and create details for 10 books
 
 ## OUTPUT
 
-![alt text](image.png)
+<img width="1919" height="1079" alt="Screenshot 2025-11-28 133920" src="https://github.com/user-attachments/assets/958a1bfc-bbaf-4b97-a8cf-cce7970e4137" />
+
 
 ## RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully
